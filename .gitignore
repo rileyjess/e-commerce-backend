@@ -1,6 +1,7 @@
 node_modules
 package-lock.json
 .vscode
+.env
 
 # MacOS Generated Files
 .DS_Store
